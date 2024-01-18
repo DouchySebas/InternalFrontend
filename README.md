@@ -1,4 +1,4 @@
-# Task Management App
+# Task Management App Frontend
 
 This is a simple task management application built using React for the frontend and a RESTful API server for the backend. The application allows users to add new tasks, view all tasks, and mark tasks as completed.
 

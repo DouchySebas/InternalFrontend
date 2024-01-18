@@ -42,9 +42,9 @@ To run the application locally, follow the steps below:
 
 4. Configure the API connection:
 
-   - Create a new file `.env` and modify the values to match your web URL. Sample File contents as follows:
+   - Run the command below to create a new file `.env` and modify the values to match your web URL.
    ```
-   REACT_APP_API_URL=http://localhost:3001/api/tasks
+   echo 'REACT_APP_API_URL=http://localhost:3001/api/tasks'  > .env
    ```
 
 5. Run the frontend:

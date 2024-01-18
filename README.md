@@ -40,7 +40,13 @@ To run the application locally, follow the steps below:
    npm install
    ```
 
-4. Run the frontend:
+4. Configure the API connection:
+
+   - Create a new file `.env` and modify the values to match your web URL. Sample File contents as follows:
+   ```REACT_APP_API_URL=http://localhost:3001/api/tasks
+   ```
+
+5. Run the frontend:
 
    ```bash
    npm start

@@ -56,7 +56,7 @@ To run the application locally, follow the steps below:
 
 ## How to Use
 
-0. Make sure the backend application is already running on your PC on port 3000.
+0. Make sure the backend application is already running (https://github.com/DouchySebas/InternalBackend/blob/master/README.md).
 1. Open the application in your web browser.
 2. Add a new task with a title and description.
 3. View all tasks and filter between completed and uncompleted tasks.

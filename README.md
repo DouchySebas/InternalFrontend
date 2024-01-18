@@ -28,7 +28,7 @@ To run the application locally, follow the steps below:
    git clone https://github.com/DouchySebas/InternalFrontend
    ```
 
-2. Navigate to the `frontend` directory:
+2. Navigate to the `Internalfrontend` directory:
 
    ```bash
    cd InternalFrontend

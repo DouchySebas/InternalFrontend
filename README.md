@@ -60,6 +60,7 @@ To run the application locally, follow the steps below:
 - **frontend/src:** Contains the React application code.
   - **App.js:** Main application component.
   - **App.css:** Styling for the application.
+  - **.env:** Configuration values for the application.
 
 ## How to Use
 

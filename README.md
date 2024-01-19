@@ -6,7 +6,7 @@ This is a simple task management application built using React for the frontend 
 
 - The following Backend is already installed, and running successfully. (https://github.com/DouchySebas/InternalBackend)
 - Git Bash for execution of the commands below.
-- Node.js LTS is installed correctly (Download URL: https://nodejs.org/en/download/)
+- Node.js LTS is installed correctly, with NPM support (Download URL: https://nodejs.org/en/download/)
 
 ## Features
 

@@ -2,6 +2,12 @@
 
 This is a simple task management application built using React for the frontend and a RESTful API server for the backend. The application allows users to add new tasks, view all tasks, and mark tasks as completed.
 
+## Prerequisite
+
+- The following Backend is already installed, and running successfully. (https://github.com/DouchySebas/InternalBackend)
+- Git Bash for execution of the commands below.
+- Node.js LTS is installed correctly, with NPM support (Download URL: https://nodejs.org/en/download/)
+
 ## Features
 
 - Add a new task with title and description.
@@ -42,9 +48,9 @@ To run the application locally, follow the steps below:
 
 4. Configure the API connection:
 
-   - Create a new file `.env` and modify the values to match your web URL. Sample File contents as follows:
+   - Run the command below to create a new file `.env` and modify the values to match your web URL.
    ```
-   REACT_APP_API_URL=http://localhost:3001/api/tasks
+   echo 'REACT_APP_API_URL=http://localhost:3001/api/tasks'  > .env
    ```
 
 5. Run the frontend:
@@ -64,7 +70,7 @@ To run the application locally, follow the steps below:
 
 ## How to Use
 
-0. Make sure the backend application is already running (https://github.com/DouchySebas/InternalBackend/blob/master/README.md).
+0. Make sure the backend application is already running ([https://github.com/DouchySebas/InternalBackend](https://github.com/DouchySebas/InternalBackend)).
 1. Open the application in your web browser.
 2. Add a new task with a title and description.
 3. View all tasks and filter between completed and uncompleted tasks.

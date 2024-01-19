@@ -2,6 +2,12 @@
 
 This is a simple task management application built using React for the frontend and a RESTful API server for the backend. The application allows users to add new tasks, view all tasks, and mark tasks as completed.
 
+## Prerequisite
+
+- The following Backend is already installed, and running successfully. (https://github.com/DouchySebas/InternalBackend)
+- Git Bash for execution of the commands below.
+- Node.js LTS is installed correctly (Download URL: https://nodejs.org/en/download/)
+
 ## Features
 
 - Add a new task with title and description.

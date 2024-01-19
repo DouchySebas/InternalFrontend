@@ -35,7 +35,6 @@ class ErrorBoundary extends React.Component {
 
 function FrontendApp() {
   const host = process.env.REACT_APP_API_URL;
-  console.log(host);
   var headers = {};
   const [tasks, setTasks] = useState([]);
   const [newTask, setNewTask] = useState({ title: '', description: '' });
